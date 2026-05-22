@@ -1,0 +1,17 @@
+LINK URL GRADED CHALLENGE 7
+
+MODEL ML
+Name : model_comvis_gc7.keras
+Link : https://drive.google.com/drive/folders/156lKJbwJlYYYfq9JhU1vq_Ajc5xDg8JE?usp=sharing
+
+
+MODEL DEPLOY
+Link : https://huggingface.co/spaces/muhalifikri/model_egg_gc7
+
+DATASET
+Link : https://www.kaggle.com/datasets/abdullahkhanuet22/eggs-images-classification-damaged-or-not
+
+
+DATA INFERENCE
+Link : https://drive.google.com/drive/folders/156lKJbwJlYYYfq9JhU1vq_Ajc5xDg8JE?usp=sharing
+
